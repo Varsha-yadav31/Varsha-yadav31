@@ -45,10 +45,9 @@ I love building real-world cloud projects and learning DevOps tools.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Varsha-yadav31&theme=tokyo-night)
 ---
-
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Varsha-yadav31&theme=tokyonight&no-frame=true&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Varsha-yadav31&theme=tokyonight)
 ---
 
 ## 📫 Connect With Me
