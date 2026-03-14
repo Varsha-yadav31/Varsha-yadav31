@@ -14,8 +14,12 @@ HTML | CSS | JavaScript
 
 
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions)
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ---
 
 ## 🌱 Currently Learning
