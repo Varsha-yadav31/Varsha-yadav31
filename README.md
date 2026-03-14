@@ -35,6 +35,12 @@ I love building real-world cloud projects and learning DevOps tools.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Varsha-yadav31&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varsha-yadav31&layout=compact&theme=tokyonight)
+
+---
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Varsha-yadav31/github-snake/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 📫 Connect With Me
