@@ -33,25 +33,30 @@ I love building real-world cloud projects and learning DevOps tools.
 - Docker
 - Kubernetes
 ---
-## 📊 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Varsha-yadav31&theme=tokyo-night)
----
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Varsha-yadav31&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varsha-yadav31&layout=compact&theme=tokyonight)
 ---
+
+## 📊 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Varsha-yadav31&theme=tokyo-night)
+---
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Varsha-yadav31&theme=tokyonight&no-frame=true&margin-w=10)
+---
+
 ## 📫 Connect With Me
 
 LinkedIn:https://www.linkedin.com/in/varsha-yadav-a872aa2a0/ 
 
 Portfolio:https://varsha-portfolio-indol.vercel.app/
 ---
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Varsha-yadav31&theme=tokyonight&no-frame=true&margin-w=10)
 
 <!--
 **Varsha-yadav31/Varsha-yadav31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
