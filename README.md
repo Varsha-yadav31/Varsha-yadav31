@@ -36,20 +36,16 @@ I love building real-world cloud projects and learning DevOps tools.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Varsha-yadav31&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varsha-yadav31&layout=compact&theme=tokyonight)
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Varsha-yadav31&show_icons=true&theme=tokyonight" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varsha-yadav31&layout=compact&theme=tokyonight" />
+</p>
 
 ## 📊 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Varsha-yadav31&theme=tokyo-night)
 ---
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Varsha-yadav31&theme=tokyonight)
----
-
 ## 📫 Connect With Me
 
 LinkedIn:https://www.linkedin.com/in/varsha-yadav-a872aa2a0/ 
