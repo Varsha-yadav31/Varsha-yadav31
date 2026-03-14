@@ -6,11 +6,6 @@
 I love building real-world cloud projects and learning DevOps tools.
 
 ---
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Varsha-yadav31/github-snake/blob/output/github-contribution-grid-snake.svg)
----
-
 ## 🚀 Tech Stack
 
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
@@ -18,6 +13,10 @@ I love building real-world cloud projects and learning DevOps tools.
 ![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/Varsha-yadav31/github-snake/blob/output/github-contribution-grid-snake.svg)
+---
 
 ## 💻 Programming & Web
 
