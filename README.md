@@ -6,21 +6,21 @@
 I love building real-world cloud projects and learning DevOps tools.
 
 ---
-
 ## 🚀 Tech Stack
 
-AWS | Linux | Docker | GitHub Actions  
-HTML | CSS | JavaScript  
-
-
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+
+## 💻 Programming & Web
+
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
----
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-purple?style=for-the-badge)
 
 ## 🌱 Currently Learning
 
